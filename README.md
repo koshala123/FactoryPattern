@@ -1,6 +1,6 @@
 # FactoryPattern
 
-# Description,
+Description,
 Create objects without exposing the creation logic to the client and refer to newly created object using a common interface.
 
 the project diagram is below. 
